@@ -1,4 +1,4 @@
-# U.S. College Majors - Exploratory Data Analysis and Visualization
+# U.S. College Majors Outcomes - Exploratory Data Analysis and Visualization
 
 Exploring the impact of college majors on graduates' earnings and unemployment, as well as the gender gap in bachelor's degrees in the U.S.
 
